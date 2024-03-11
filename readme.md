@@ -57,12 +57,12 @@ You'll need to enter the environments variables of the ".sample.env" file (which
 
 ### Once the installation is done and the environments variables are entered, you can start the project
 
-* In your terminal at the "client" folder, enter the command:
+* In your terminal at the "Client" folder, enter the command:
 ```bash
   npm start
 ```
 
-* Same for the "server" folder enter the command:
+* Same for the "Server" folder enter the command:
 ```bash
   npm start
 ```
