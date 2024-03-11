@@ -4,6 +4,9 @@
 
 The project consists of creating the backend side of the application using MongoDB and Node.js
 
+## Back end Prerequisites
+You will need to have Node and npm installed locally on your machine.
+
 ## Installation
 
 Open your terminal and navigate to the "Client" folder
